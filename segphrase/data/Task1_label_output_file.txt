@@ -1,0 +1,144 @@
+sesame seeds	1
+sweet and sour sauce	1
+los angeles	1
+fried rice	1
+hot sauce	1
+main course	1
+strip mall	1
+fried chicken	1
+gold coast	1
+spring roll	1
+shangri la	1
+hong kong	1
+monte carlo	1
+soy sauce	1
+dim sum	1
+chinese food	1
+language barrier	1
+lazy susan	1
+las vegas	1
+bitter melon	1
+char siu	1
+sunday brunch	1
+gluten free	1
+stir fry	1
+chinese sausage	1
+fast food	1
+rice noodles	1
+chinese american	1
+chili sauce	1
+green beans	1
+steamed rice	1
+deep fried	1
+stir fried	1
+fried fish	1
+light rail	1
+standard chinese	1
+panda express	1
+comfort food	1
+sticky rice	1
+shaved ice	1
+soy milk	1
+chicken soup	1
+noodle soup	1
+sea bass	1
+chinese restaurants	1
+ice cream	1
+iced tea	1
+brown rice	1
+sun prairie	1
+bok choy	1
+shark fin	1
+peanut sauce	1
+queen creek	1
+egg roll	1
+general chicken	1
+great wall	1
+chow mein	1
+black pepper	1
+hoisin sauce	1
+peking duck	1
+tap water	1
+bean curd	1
+cantonese cuisine	1
+food poisoning	1
+kung pao chicken	1
+corn starch	1
+chicken wings	1
+xo sauce	1
+green pepper	1
+miso soup	1
+americanized chinese food	1
+fortune cookie	1
+rice cake	1
+spare ribs	1
+saving grace	1
+food court	1
+bay area	1
+duck sauce	1
+rice noodle	1
+black bean	1
+mandalay bay	1
+hot pot	1
+white sauce	1
+chili pepper	1
+green onion	1
+pork belly	1
+san francisco	1
+napa cabbage	1
+fried egg	1
+casa grande	1
+chinese cuisine	1
+credit card	1
+pf chang	1
+sweet potato	1
+mu shu pork	1
+oyster sauce	1
+brown sauce	1
+asian cuisine	1
+date night	1
+green tea	1
+credit cards	1
+fish tank	1
+white rice	1
+red chili	1
+jasmine tea	1
+fish sauce	1
+sesame oil	1
+peanut butter	1
+cream cheese	1
+chop suey	1
+pork ribs	1
+bamboo shoots	1
+bell pepper	1
+chicken fried	1
+green bean	1
+green onions	1
+red pepper	1
+red peppers	1
+san diego	1
+taco bell	1
+could taste	0
+china go go	0
+but you can	0
+beef fried rice	0
+big heng	0
+chicken and broccoli	0
+china a gogo	0
+egg roll and crab puff	0
+fried rice and	0
+gau gee	0
+orange peel chicken	0
+pan fried noodles	0
+peas and carrots	0
+pork noodles	0
+shredded chicken	0
+spicy chicken	0
+the beef	0
+the grease	0
+the green beans	0
+the lobster	0
+the mongolian beef lunch	0
+the noodle	0
+the won tons	0
+wor won ton soup	0

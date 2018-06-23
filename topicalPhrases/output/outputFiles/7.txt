@@ -1,0 +1,362 @@
+soy sauce	381
+green beans	256
+garlic sauce	191
+Pei Wei	175
+green onions	174
+salt and pepper	163
+black bean sauce	155
+dipping sauce	148
+cooked perfectly	143
+string beans	139
+brown sauce	135
+snow peas	135
+shrimp with lobster sauce	134
+favorite dish	131
+chili sauce	126
+chili oil	122
+XO sauce	108
+lacked flavor	103
+freshly made	101
+salt and pepper shrimp	98
+fish tanks	95
+made fresh	93
+oyster sauce	89
+bell peppers	89
+bean sprouts	86
+tasted fresh	86
+bean curd	85
+taste buds	84
+spicy sauce	83
+sauce on the side	81
+didn t taste	80
+perfectly cooked	78
+spicy dish	75
+full of flavor	74
+black bean	73
+water chestnuts	71
+duck sauce	70
+extra spicy	70
+pepper steak	68
+Moo Goo Gai Pan	65
+cooked pork	61
+good flavor	59
+tofu dish	58
+black pepper	58
+mapo tofu	58
+chili peppers	58
+main dishes	58
+red bean	58
+fresh veggies	57
+dishes we ordered	55
+fish balls	54
+steamed fish	52
+white meat	52
+ordered  dishes	51
+red peppers	50
+bitter melon	48
+meat was tender	48
+bamboo shoots	48
+salted fish	48
+bit salty	48
+thinly sliced	46
+green peppers	45
+fresh tasting	45
+water boiled fish	45
+tasted good	44
+green onion pancake	44
+lot of flavor	44
+eggplant tofu	44
+spicy eggplant	44
+perfect amount	44
+fresh vegetables	43
+bit bland	42
+dish was spicy	42
+scallion pancakes	42
+ginger and scallions	41
+garlic shrimp	41
+hot sauce	41
+mixed vegetables	40
+peas and carrots	40
+vegetable dish	39
+wasn t spicy	39
+fish fillet	38
+lamb skewers	38
+meat and veggies	38
+Wo Fat	37
+melts in your mouth	37
+fresh ingredients	37
+hot and spicy	36
+veggies were fresh	35
+salt and pepper calamari	35
+dark meat	35
+hoisin sauce	35
+salty fish	35
+sweet sauce	35
+lots of veggies	34
+lightly battered	34
+bland tasting	33
+water boiled	33
+eggplant in garlic sauce	33
+meat and vegetables	32
+tofu with vegetables	32
+peanut sauce	32
+napa cabbage	31
+tofu and veggies	31
+shrimp  scallops	31
+plum sauce	31
+light sauce	31
+pieces of meat	30
+garlic eggplant	30
+eggplant dish	30
+black mushrooms	29
+flavor was good	29
+ginger sauce	29
+salt and pepper squid	29
+black pepper sauce	28
+amount of spice	28
+peanut butter	28
+freshly cooked	28
+mouth watering	28
+rock cod	27
+flavorful broth	27
+hot and fresh	27
+sauce was sweet	27
+pig ears	27
+sweet and spicy	27
+vegetables were fresh	27
+veggies and meat	27
+lobster sauce	26
+bit greasy	26
+mixed veggies	26
+sauce was thick	25
+fresh and tasty	25
+goldfish tanks	25
+spice level	25
+spicy beef	24
+broth was very flavorful	24
+cooked fresh	24
+chili paste	24
+ingredients are fresh	23
+thick sauce	22
+soy milk	22
+crispy skin	22
+seafood tofu	22
+seasoned perfectly	21
+ginger and onion	21
+salt and pepper pork	21
+perfectly seasoned	21
+freshly prepared	20
+sliced pork	20
+shrimp with vegetables	19
+tasted bland	19
+tender meat	19
+carrots and peas	19
+fresh and hot	19
+tasted weird	19
+sauce was light	19
+bit disappointed	18
+fresh and delicious	18
+sauce was spicy	18
+cumin lamb	18
+big chunks	17
+gold fish	17
+tofu and eggplant	17
+doesn t taste	17
+flavor and lots	17
+weird taste	17
+good taste	17
+vegetables and meats	17
+beef was tender	16
+lamb with cumin	16
+beef tendon	16
+spicy mustard	16
+red chili	16
+sauce for dipping	16
+tender beef	15
+wasn t impressed	15
+shrimp tempura	15
+pepper beef	15
+Moo Goo	15
+pork and mushroom	15
+crispy duck	15
+dish   My favorite	14
+sliced beef	14
+side note	14
+bean sauce	14
+texture and taste	14
+sliced thin	14
+wasn t good	13
+black pepper beef	13
+taste and texture	13
+wasn t bad	13
+top notch	13
+shredded pork	12
+boiled water	12
+tempura shrimp	12
+made to order	12
+onions and green	12
+spicy hot	12
+sauce and soy	12
+scallops  shrimp	12
+vegetables and tofu	12
+wasn t expecting	11
+hot chili	11
+onion pancake	10
+side sauces	10
+sauce  garlic	10
+shrimp dumplings	9
+prepared fresh	9
+pepper shrimp	9
+spicy garlic	9
+veggie tofu	9
+shrimp  pork	9
+beef slices	9
+spicy and sweet	9
+shrimp with lobster	9
+taste definitely  I didn	9
+good amount	9
+absolutely delicious	9
+scallion and ginger	9
+dishes  vegetable	8
+pork was cooked	8
+level of spice	8
+delicious and fresh	8
+mushroom pork	8
+pork and shrimp	8
+small pieces	8
+steamed dumplings	7
+good thing	7
+tasty and fresh	7
+skin was crispy	7
+dish   eggplants	7
+vegetables  shrimp	7
+meat pieces	7
+nice touch	7
+meat  ours uses white	6
+dish with tofu	6
+tanks of goldfish	6
+minced pork	6
+thing I didn	6
+pepper pork	6
+made to order and fresh	6
+veggies mixed	6
+spicy and it wasn	6
+sauce with ginger	5
+eggplant with spicy	5
+sauce  The oysters	5
+pepper and salt	5
+dishes to share	5
+sauce and peanuts	5
+share dishes	5
+salt and pepper pork chops	5
+pork dumplings	5
+didn t expect	5
+boiled fish	5
+beans in black	5
+vegetables mixed	5
+beef cubes	4
+overly sweet	4
+sauce  beans	4
+pork chops	4
+sauce duck	4
+flavored  and full	4
+favorite thing	4
+Szechuan Beef	4
+couldn t finish	4
+Shrimp  Salt and Pepper	4
+sauce with some brown	4
+Hunan beef	4
+good  but it wasn	4
+meat is dark	4
+Gai Pan	3
+flavor was lacking	3
+Beef Pepper	3
+spicy  ask for extra	3
+Szechwan Beef	3
+thing we ordered	3
+eggplant in garlic	3
+sauce of black beans	3
+balls and fish	3
+super nice	3
+bland and a bit	3
+ordered  entrees	3
+onion and ginger	3
+sauce  hot	3
+corn starch	3
+skewer is a must try  Tried lamb	3
+good stuff	3
+pork slices	3
+pepper and chili	3
+calamari   Salt and Pepper	3
+shrimp  pepper	2
+garlic a spicy	2
+Moo Goo Gai	2
+thing good	2
+pork and shredded	2
+lobster  shrimp	2
+beans instead but   for just green	2
+pieces were small	2
+fish for my water boil	2
+fish needs to be salty	2
+Squid   The salt and pepper	2
+order being made	2
+beef was spicy	2
+beef skewers	2
+pepper squid	2
+batter was very light	2
+oil with chili	2
+garlic  maybe some hot sauce	2
+bad  but it wasn	2
+fish and steamed	2
+baked pork	2
+tofu seafood	2
+sauce for    Also  their XO	2
+salty  I am a bit	2
+dumplings and pork	2
+stuff and it s always good	2
+sauce and chili	2
+rice was dry	1
+curry beef	1
+bean  red	1
+chestnuts  and not water	1
+tanks of fish	1
+sauce  The lobster	1
+mouth melting	1
+Lobster Sauce Shrimp	1
+expected more   No I didn	1
+super yummy	1
+pancakes  onion	1
+mushrooms  black	1
+pepper calamari	1
+Curded Bean	1
+impression  Wasn	1
+calamary and pepper	1
+consistently good	1
+hot mustard	1
+pepper and salt shrimp	1
+dumplings  steamed	1
+Yummy Yummy	1
+pancake  What if I just want the green onion	1
+Beef with Black Pepper	1
+fillet fish	1
+chili hot	1
+Goo Gai Pan	1
+order the same thing	1
+pork and pepper	1
+pepper squid could have more salt	1
+peppers and green	1
+veggie   There s LOTS	1
+shrimp with garlic	1
+duck  crispy	1
+thing  My favorites	1
+sweet potato	1
+beef szechuan	1
+amount was perfect	1
+chili they used was the red	1
+delicious   Absolutely	1
+sweet    not overly	1
+Pork w  salt   pepper	1
+chopped pork	1
+wide variety	1
+fish  salt	1
+Sauce  Hoisin	1

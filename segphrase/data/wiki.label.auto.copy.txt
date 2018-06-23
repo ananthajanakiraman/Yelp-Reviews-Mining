@@ -1,0 +1,366 @@
+red chili	1
+white rice	1
+main course	1
+saving grace	1
+gluten free	1
+shangri la	1
+fried rice	1
+char siu	1
+egg roll	1
+great wall	1
+fortune cookie	1
+stir fried	1
+sweet and sour sauce	1
+sun prairie	1
+standard chinese	1
+sesame oil	1
+monte carlo	1
+mandalay bay	1
+fast food	1
+dim sum	1
+fried chicken	1
+general chicken	1
+soy milk	1
+tap water	1
+stir fry	1
+ice cream	1
+white sauce	1
+hoisin sauce	1
+date night	1
+soy sauce	1
+bitter melon	1
+chinese food	1
+casa grande	1
+sea bass	1
+shark fin	1
+chinese american	1
+rice noodle	1
+iced tea	1
+strip mall	1
+deep fried	1
+spare ribs	1
+duck sauce	1
+light rail	1
+bean curd	1
+panda express	1
+noodle soup	1
+shaved ice	1
+pf chang	1
+fried egg	1
+pork belly	1
+hong kong	1
+food poisoning	1
+lazy susan	1
+black pepper	1
+americanized chinese food	1
+san francisco	1
+peking duck	1
+chinese cuisine	1
+great taste	1
+san diego	1
+green beans	1
+chow mein	1
+chop suey	1
+fish sauce	1
+queen creek	1
+los angeles	1
+green bean	1
+language barrier	1
+miso soup	1
+xo sauce	1
+steamed rice	1
+cream cheese	1
+peanut butter	1
+hot sauce	1
+chinese restaurants	1
+las vegas	1
+mu shu pork	1
+gold coast	1
+chicken soup	1
+hot pot	1
+food court	1
+rice noodles	1
+chicken wings	1
+bell pepper	1
+bay area	1
+chinese sausage	1
+kung pao chicken	1
+fried fish	1
+sesame seeds	1
+brown rice	1
+iron chef	1
+sticky rice	1
+brown sauce	1
+sweet potato	1
+oyster sauce	1
+chicken fried	1
+corn starch	1
+red peppers	1
+bamboo shoots	1
+green onion	1
+asian cuisine	1
+credit card	1
+pork ribs	1
+yummy yummy	1
+red pepper	1
+credit cards	1
+jasmine tea	1
+bok choy	1
+comfort food	1
+rice cake	1
+napa cabbage	1
+spring roll	1
+chili sauce	1
+green pepper	1
+peanut sauce	1
+fish tank	1
+green onions	1
+cantonese cuisine	1
+sunday brunch	1
+chili pepper	1
+green tea	1
+china gate	1
+black bean	1
+caesars palace	1
+taco bell	1
+asked me to	0
+get home	0
+they weren't	0
+with most of	0
+no joke	0
+to ask for	0
+of the worst chinese food	0
+signature dishes	0
+to go menu	0
+kind of	0
+ordered from this	0
+hawaiian style chinese	0
+the pork	0
+to finish it	0
+you can	0
+do their	0
+gau gee	0
+our lunch	0
+gourmet house of hong	0
+but the food and	0
+and tastes	0
+make a reservation	0
+beijing style	0
+couple of years	0
+way to	0
+i've spent	0
+of the day	0
+dan dan	0
+was actually	0
+interior of the	0
+a limited	0
+mention that	0
+i am going to	0
+wait staff is	0
+food here	0
+people in the restaurant	0
+meat in	0
+an all you can eat	0
+again the	0
+was great	0
+below par	0
+have them	0
+food is cooked	0
+like every other	0
+soooo good	0
+bit off	0
+to take my order	0
+ate here a	0
+came with	0
+is not what	0
+get through	0
+menu and the	0
+haven't been here	0
+in my soup	0
+tail soup	0
+if you don't eat	0
+little hole in the	0
+to kick	0
+last night	0
+big heng	0
+china a gogo	0
+to venture	0
+it's fun to	0
+had a chance to	0
+lunch with my	0
+meat and vegetables	0
+and it was very	0
+they know	0
+place isn't	0
+everyone is	0
+could taste	0
+pan fried noodles	0
+co workers	0
+the city	0
+the wall	0
+got it	0
+on my way home from	0
+the noodle	0
+had high hopes	0
+i don't normally	0
+wait was	0
+tasted it	0
+was good	0
+peas and carrots	0
+the grease	0
+spicy chicken	0
+those of you who	0
+i don't	0
+ran out	0
+in the middle of the	0
+and the employees	0
+worst chinese food i have ever	0
+the ribs were	0
+and they just	0
+great and we	0
+the meat was tender	0
+do take out	0
+other dishes and	0
+thus far	0
+card number	0
+i truly	0
+taste for	0
+best chinese i	0
+our dishes were	0
+set up	0
+the tea	0
+took the	0
+and pop	0
+ping pang pong	0
+a bed of	0
+to the office	0
+pork and chicken	0
+we've had	0
+also ordered	0
+with pork and	0
+or pick up	0
+sauce on the side	0
+chinese food i have had	0
+often as	0
+the baby	0
+for my meal	0
+beef fried rice	0
+their fish	0
+at the very	0
+quick take out	0
+generous amount of	0
+you do get	0
+waste your time	0
+food is better than	0
+tends to	0
+won't be	0
+they ordered	0
+some of the best	0
+yourself a favor	0
+return to this	0
+fried rice is	0
+in between	0
+are in the mood for chinese	0
+at the bar and	0
+a glass of wine	0
+the wonton soup was	0
+their lo mein	0
+is hit or	0
+i had the pork	0
+half hour	0
+after being	0
+been going there for	0
+twice and both times	0
+i just	0
+style food	0
+orange peel chicken	0
+can just	0
+the whole experience	0
+with the exception of	0
+to eat in	0
+that all	0
+ok and	0
+past years	0
+will definitely be ordering	0
+is top notch	0
+talked to	0
+and it's not	0
+memories of	0
+was big	0
+good the	0
+dishes and	0
+shredded chicken	0
+pork noodles	0
+the food is so	0
+you can order	0
+at a very reasonable price	0
+you've never	0
+i was expecting	0
+coming here	0
+hadn't been	0
+in a good way	0
+and pick up	0
+in chinese	0
+cash only	0
+a go to	0
+the flavors were	0
+all in all	0
+into the	0
+inexpensive and	0
+can't go wrong	0
+worth a visit	0
+rest of	0
+service and quality	0
+of ice	0
+chicken and broccoli	0
+hole in the wall place	0
+pork had	0
+sick to	0
+but you can	0
+dinner time	0
+take out from	0
+i could give	0
+we don't	0
+the waiter and	0
+thought i	0
+is the first place	0
+chinese place for	0
+wor won ton soup	0
+eating in	0
+try a	0
+i highly recommend it	0
+they dont	0
+we were hungry	0
+good taste	0
+the lobster	0
+the won tons	0
+person who	0
+it is a good	0
+be the	0
+option to	0
+the same	0
+treated us	0
+fried rice and	0
+the green beans	0
+say the least	0
+lunch menu	0
+egg roll and crab puff	0
+seated right away	0
+a number	0
+li's bowl	0
+i would eat here	0
+the 's	0
+china go go	0
+sat at the bar	0
+the mongolian beef lunch	0
+a long time	0
+the beef	0
+i would also	0
+expect the	0
+for the last years	0
+don't want to	0
+picky eater	0
+they were also	0
+star for the	0
+it is also	0
+a bad experience	0
