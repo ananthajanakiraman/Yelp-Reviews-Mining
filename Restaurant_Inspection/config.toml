@@ -1,0 +1,15 @@
+prefix = "."
+stop-words = "lemur-stopwords.txt"
+
+dataset = "hygiene"
+corpus = "line.toml"
+index = "hygiene-idx"
+uninvert = true # create the forward index by un-inverting the
+                # inverted index; can save some processing time
+                # when using both indexes
+
+[[analyzers]]
+method = "ngram-word"
+ngram = 1
+filter = "default-unigram-chain"
+#[{type = "icu-tokenizer"}, {type = "lowercase"}]
