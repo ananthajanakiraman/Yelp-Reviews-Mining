@@ -54,24 +54,24 @@ Figure 1. Log Likelihood plot for number of topics selection.
 
 After applying LDA to a sample of the reviews and choosing an appropriate input for the number of topics (K=5 &amp; K=10), we obtained the following visualizations using a popular visualization package in R. Figure 2 shows a 5-topic model with the top 5 words identified in each topic, the topics are well defined in each of the 5 topics and colors signify different topics. Figure 3 is similar to Figure 2 and identifies 10 different topics with the top 5 words listed under each topic.
 
-<img src="figure2.png">
+<img src="Images/figure2.png">
 Figure 2. LDA Topic Visualization with topic parameter, K=5
 
-<img src="figure3.png">
+<img src="Images/figure3.png">
 Figure 3. LDA Topic Visualization with topic parameter, K=10
 
 We created another sample set from the original yelp review dataset that contains almost 6000000 reviews (550 MB in size) and filtered reviews for one specific business that resulted in a dataset of 3695 reviews. The reviews were separated as positive (&gt;3 stars) and negative reviews (&lt;3 stars). We did not include reviews with three stars because that rating is neither positive nor negative. Then as detailed previously, a log likelihood plot – Figure 4 and 5 were generated on the positive and negative review data to determine the optimal number of topics. The topic model visualizations were generated as shown in Figure 6 and 7 for positive and negative reviews. The green color signifies positive reviews and the red color signifies negative reviews. We chose the optimal topic parameter to be 24 but it could anything in the range of 20 and 30.
 
-<img src="figure4.png">
+<img src="Images/figure4.png">
 Figure 4. Log Likelihood for positive reviews dataset
 
-<img src="figure5.png">
+<img src="Images/figure5.png">
 Figure 5. Log Likelihood for negative reviews dataset
 
-<img src="figure6.png">
+<img src="Images/figure6.png">
 Figure 6. Topic Model visualization for negative reviews
 
-<img src="figure7.png">
+<img src="Images/figure7.png">
 Figure 7. Topic Model visualization for positive reviews
 
 **3.2 Task 2. How are different cuisines related?**
@@ -100,19 +100,19 @@ Figure 11 shows the similarity matrix computed using a topic model and cosine si
 
 We generated a similarity matrix based on aggregated similarity of individual reviews between cuisines. After data preprocessing, a similarity matrix was generated using a similarity function across all reviews between cuisines. We aggregated the similarities of individual reviews between cuisines and produced a final aggregated similarity matrix that was plotted in the below visualization – Figure 12. The visualization shows predominantly low opacity cells indicating low similarity across cuisines but could be improved significantly by adjusting the weighting &amp; applying other pruning techniques.
 
-<img src="figure8.png">   
+<img src="Images/figure8.png">   
 Figure 8. Similarity with no transformation   
 
-<img src="figure9.png">                        
+<img src="Images/figure9.png">                        
 Figure 9. Similarity with TF weighting
 
-<img src="figure10.png">                                            
+<img src="Images/figure10.png">                                            
 Figure 10. Similarity with TF-IDF weighting                         
 
-<img src="figure11.png">
+<img src="Images/figure11.png">
 Figure 11. Similarity using Topic Model
 
-<img src="figure12.png">                                               
+<img src="Images/figure12.png">                                               
 Figure 12. Similarity using aggregated reviews
 
 Although this representation clearly shows some groups, it makes hard to infer the relationships between groups. Each cell in the cuisine similarity matrix represents the strength of the relationship between two cuisines. We can also represent the similarity matrix as clusters in which each cluster contains cuisines with high similarity. We performed the followed clustering methods and out of these the K-Medoids clustering method using representative objects performed better for the chosen sample set. Figures 13, 14 and 15 are sample visualizations of outcome from these clustering methods.
@@ -123,13 +123,13 @@ Although this representation clearly shows some groups, it makes hard to infer t
 
 For K-Means, we did Principal Component Analysis (PCA) on the similarity matrix to determine proportion of variance across components/features that describe the data and then used components that cumulatively contribute to at least 70% proportion of variance for plotting clustering results. And for K-Medoids, the first two principal components that explain more than 75%-point variability were used in the visualizations.
 
-<img src="figure13.png">
+<img src="Images/figure13.png">
 Figure 13. K-Means Clustering
 
-<img src="figure14.png">
+<img src="Images/figure14.png">
 Figure 14. Hierarchical Clustering
 
-<img src="figure15.png">
+<img src="Images/figure15.png">
 Figure 15. K-Medoids Clustering
 
 **3.3 Tasks 3, 4 and 5. What are the best dish recommendations for a particular cuisine and what is the best restaurant serving that dish?**
@@ -177,7 +177,7 @@ All the methods applied retrieved valid dish names and, although the highest sco
 
 Proceeding this way, we got one list of items for each algorithm and Chinese cuisine. TopMine seemed to return a better list compared to SegPhrase. Below is a word cloud – Figure 16 generated from TopMine results using the configuration above and this is just a sample.
 
-<img src="Figure16.png">
+<img src="Images/Figure16.png">
 Figure 16. Word Cloud from Top Mine results
 
 However, even after keeping only the top scoring items for each algorithm we found items not related to food, related to food but that were not dishes and dishes from other cuisines. We compared the popular dish names to popular Chinese dish names using the Chinese dish list extracted from various sources including Wikipedia and eliminated non-dish names.
@@ -210,7 +210,7 @@ From the analysis and visualizations, we were able to identify, extract and reas
 
 The dishes that have high positive reviews also seem to have reasonably high negative reviews but in case of some dishes although they do not fall under high weighted review count, they seem to have very low negative reviews compared to number of positive reviews. Overall, the weighted frequency based approach to determine popular dish and recommend restaurant seemed to work fine but there are definitely other methods like sentiment based mining and modeling methods that could be employed to improve the accuracy of the recommendation.
 
-<img src="Figure17.png">
+<img src="Images/Figure17.png">
 Figure 17. Popular dishes from Chinese cuisine reviews
 
 **3.3.3 Restaurant recommendation**
@@ -231,7 +231,7 @@ From the analysis and visualizations, we were able to identify, extract and reas
 
 the restaurants that have high positive reviews also seem to have reasonably high negative reviews but in case of some restaurants although they do not fall under high weighted review score, they seem to have very low negative reviews compared to number of positive reviews. Overall, the weighted frequency based approach to determine recommend restaurant seemed to work fine.
 
-<img src="Figure18.png">
+<img src="Images/Figure18.png">
 Figure 18. Popular restaurants serving &quot;orange chicken&quot;
 
 **3.4 Task 6. Restaurant Hygiene Prediction**
@@ -279,7 +279,7 @@ We tabled our results from different classifier and configuration settings as se
 
 Predicting whether a set of restaurants will pass the public health inspection tests given the corresponding Yelp text reviews along with some additional information such as the locations and cuisines offered in these restaurants using data mining techniques represents a wide range of important applications of data mining. The comparison of results against various classifiers was extremely important and helps understand what classifier with appropriate setting is best suited for this task.
 
-<img src="Figure19.png">
+<img src="Images/Figure19.png">
 Figure 19. Classifier results comparison table
 
 **4. Usefulness of the results**
